@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="YOUR_LOGO_LINK_HERE" width="220" alt="AdBis Marketing Hub Logo" />
+  <img src="![logo](https://github.com/user-attachments/assets/ccdadba2-55da-4d4a-a935-83cb9b34d230)
+" />
   <br><br>
 
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=800&lines=Architecting+Digital+Ecosystems;Software+Engineer+%7C+System+Builder;Founder+%40+AdBis+Marketing+Hub;Scaling+Through+Code+%26+Automation" alt="Typing Animation" />
