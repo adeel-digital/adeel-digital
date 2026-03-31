@@ -1,77 +1,148 @@
 <div align="center">
-  <br>
-  <img src="https://github.com/user-attachments/assets/ccdadba2-55da-4d4a-a935-83cb9b34d230" width="260" style="max-width: 100%;" alt="AdBis Marketing Hub Logo" />
 
-  <br>
+  <!-- LOGO -->
+  <img src="https://github.com/user-attachments/assets/ccdadba2-55da-4d4a-a935-83cb9b34d230"
+       width="170"
+       style="border-radius: 16px; box-shadow: 0 8px 25px rgba(0,206,209,0.35);" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=4000&pause=1000&color=00CED1&center=true&vCenter=true&width=800&lines=Digital+Marketing+Architect;Meta+Ads+%26+Performance+Scaling;Frontend+Engineering+%26+UI;Founder+%40+AdBis+Marketing+Hub" style="max-width: 100%;" alt="Typing Animation" />
+  <!-- TYPING (Improved + Bigger + Less Gap) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=26&duration=3200&pause=800&color=00CED1&center=true&vCenter=true&width=340&lines=Digital+Marketing+Architect;Meta+Ads+%26+Scaling+Expert;Frontend+Engineer+%26+UI+Builder;Founder+%40+AdBis+Marketing+Hub"
+       style="margin-top:6px;" />
+
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/f3/7a/61/f37a61d6ac38161117109787e221360a.gif" style="max-width: 100%; border-radius: 10px; border: 1px solid #00CED1;" alt="Data Aesthetic Banner"/>
-</div>
+<!-- INTRO GLASS -->
+<div align="center" style="
+  backdrop-filter: blur(10px);
+  background: rgba(255,255,255,0.04);
+  border-radius: 18px;
+  padding: 16px;
+  border: 1px solid rgba(0,206,209,0.15);
+  max-width: 92%;
+  margin:auto;
+">
 
-<br>
-
-<h2 align="center">Dominating Digital Ecosystems & Frontend Architecture</h2>
-
-<p align="center">
-  Engineering digital leverage through the intersection of technical logic and marketing psychology. As the founder of <b>AdBis Marketing Hub</b>, I specialize in high-yield Meta Ads and data-driven brand scaling.
+<p style="font-size:14px; line-height:1.6;">
+Blending <b>marketing psychology</b> with <b>technical execution</b> to build scalable digital systems.  
+Founder of <b>AdBis Marketing Hub</b> — focused on performance marketing & growth architecture.
 </p>
 
-<br>
-
-### ✦ Strategic Experience
-
-> **Digital Marketing Intern | RAN Digital Agency**
-> * Managed end-to-end social media campaigns and creative design for local brands.
-> * Optimized performance metrics and handled direct client acquisition.
-
-> **Founder | AdBis Marketing Hub**
-> * Scaling e-commerce ecosystems and automating client acquisition funnels.
-> * Designed official creative assets for **Global Game Jam 2025** (IGDA @ CUST).
-
-<br>
-
-### ✦ Portfolio & Client Architecture
-
-> **Al Rahman Interior** | *Branding & Digital Presence*
-> Structured the complete digital identity and managed branding strategies to establish authority in the interior design sector.
-
-> **Estimation Experts** | *Frontend Engineering*
-> Developed a high-end business website focusing on clean UI, structural integrity, and conversion-optimized layout.
-
-> **Tulip Attire** | *E-Commerce Scaling*
-> Architected scalable Meta Ad systems and managed branding to drive consistent e-commerce growth.
-
-> **Aura's Collection** | *Performance Marketing*
-> Deployed high-ROAS social media campaigns and strategic creatives to maximize engagement and sales.
-
-> **Unique Interior & The Mingle Munch** | *Brand Development*
-> Engineered brand identities from zero, including full-scale content strategy and promotional architectures.
-
-<br>
-
-<h3 align="center">The Technical Arsenal</h3>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Meta_Ads-0468FF?style=for-the-badge&logo=meta&logoColor=white" style="margin: 3px;" />
-  <img src="https://img.shields.io/badge/SMM_Strategy-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="margin: 3px;" />
-  <img src="https://img.shields.io/badge/UI_Engineering-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="margin: 3px;" />
-  <br>
-  <img src="https://img.shields.io/badge/SEO_Systems-83B81A?style=for-the-badge&logo=semrush&logoColor=white" style="margin: 3px;" />
-  <img src="https://img.shields.io/badge/Data_Analytics-3776AB?style=for-the-badge&logo=google-analytics&logoColor=white" style="margin: 3px;" />
-  <img src="https://img.shields.io/badge/Creative_Architecture-00C4CC?style=for-the-badge&logo=canva&logoColor=white" style="margin: 3px;" />
 </div>
 
 <br>
 
-<hr style="border: 1px solid #00CED1; width: 85%; opacity: 0.3;" />
+<!-- EXPERIENCE -->
+<h3 align="center">⚡ Experience</h3>
+
+<div align="center" style="max-width:92%; margin:auto;">
+
+<div style="background:rgba(0,0,0,0.35); border-radius:14px; padding:14px; margin-bottom:10px; border:1px solid rgba(255,255,255,0.07);">
+
+<b>Digital Marketing Intern</b><br>
+<small>RAN Digital Agency</small>
+
+<ul align="left">
+<li>Ad campaigns & creative execution</li>
+<li>Performance optimization</li>
+<li>Client communication</li>
+</ul>
+
+</div>
+
+<div style="background:rgba(0,0,0,0.35); border-radius:14px; padding:14px; border:1px solid rgba(255,255,255,0.07);">
+
+<b>Founder</b><br>
+<small>AdBis Marketing Hub</small>
+
+<ul align="left">
+<li>Ad scaling systems</li>
+<li>Client acquisition funnels</li>
+<li>Creative & brand direction</li>
+</ul>
+
+</div>
+
+</div>
+
+<br>
+
+<!-- PROJECTS (Improved Structure) -->
+<h3 align="center">📊 Projects</h3>
+
+<div align="center" style="max-width:92%; margin:auto;">
+
+<div style="padding:12px; margin-bottom:8px; border-radius:12px; background:rgba(255,255,255,0.05);">
+<b>Unique Interior</b><br>
+<small>Complete brand development, content strategy & digital presence from scratch</small>
+</div>
+
+<div style="padding:12px; margin-bottom:8px; border-radius:12px; background:rgba(255,255,255,0.05);">
+<b>Al Rehman Interior</b><br>
+<small>Brand identity, social media handling & authority building</small>
+</div>
+
+<div style="padding:12px; margin-bottom:8px; border-radius:12px; background:rgba(255,255,255,0.05);">
+<b>Estimation Experts</b><br>
+<small>Frontend business website with structured UI & conversion-focused layout</small>
+</div>
+
+<div style="padding:12px; margin-bottom:8px; border-radius:12px; background:rgba(255,255,255,0.05);">
+<b>Aura's Collection</b><br>
+<small>Performance marketing & high-ROAS campaigns</small>
+</div>
+
+<div style="padding:12px; border-radius:12px; background:rgba(255,255,255,0.05);">
+<b>The Mingle Munch</b><br>
+<small>Brand creation, content strategy & promotional campaigns</small>
+</div>
+
+</div>
+
+<br>
+
+<!-- SKILLS -->
+<h3 align="center">🧠 Skills & Languages</h3>
 
 <div align="center">
-  <p><b>Initiate Global Network</b></p>
-  <a href="https://www.linkedin.com/in/adeel-haider-0b89a8305"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" /></a>
-  <a href="https://www.instagram.com/ad_bis_marketinghub1/"><img src="https://img.shields.io/badge/Instagram-Brand-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117" /></a>
+
+<!-- LANGUAGES -->
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Structures-6A1B9A?style=for-the-badge"/>
+
+<br><br>
+
+<!-- MARKETING -->
+<img src="https://img.shields.io/badge/Meta_Ads-0468FF?style=for-the-badge&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/SMM-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/Analytics-3776AB?style=for-the-badge&logo=google-analytics&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</div>
+
+<br>
+
+<!-- CONNECT -->
+<div align="center" style="
+  margin-top: 18px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(0,206,209,0.2);
+">
+
+<b>🌐 Connect</b><br><br>
+
+<a href="https://www.linkedin.com/in/adeel-haider-0b89a8305">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/ad_bis_marketinghub1/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </div>
